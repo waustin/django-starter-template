@@ -8,6 +8,13 @@ Customized Starter Django Project Starter Template
 - `apps/` directory to store application apps
 - `app/core` directory to store common / core project logic not belonging to a specific app
 - Django Admin for basic data Managment
+- Django Ninja - REST Framework for the API
+
+### Testing
+
+- pytest with pytest-django and pytest-cov (coverage)
+- django-test-plus
+- run `pytest` command to run tests
 
 ## Steps
 
